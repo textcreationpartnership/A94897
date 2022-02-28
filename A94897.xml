@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true, and brief relation of the Lord Lisle's departure from his command in Ireland, as it was vvrit from a gentleman of worth from Corke in Munster.</title>
+            <author>Gentleman of Worth from Corke in Munster.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94897</idno>
+            <idno type="STC">Wing T2419</idno>
+            <idno type="STC">Thomason E385_13</idno>
+            <idno type="STC">ESTC R201463</idno>
+            <idno type="EEBO-CITATION">99861968</idno>
+            <idno type="PROQUEST">99861968</idno>
+            <idno type="VID">114114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114114)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true, and brief relation of the Lord Lisle's departure from his command in Ireland, as it was vvrit from a gentleman of worth from Corke in Munster.</title>
+                  <author>Gentleman of Worth from Corke in Munster.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 30 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lisle, George, --  Sir, d. 1648 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114114:1"/>
+            <pb facs="tcp:114114:1" rendition="simple:additions"/>
+            <p>A True, and Brief RELATION OF THE Lord Liſles Departure from his Command in <hi>IRELAND,</hi> As it was VVrit from a Gentleman of Worth from <hi>Corke</hi> in <hi>M<g ref="char:V">Ʋ</g>NSTER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:114114:2"/>
+            <pb n="1" facs="tcp:114114:2"/>
+            <head>A True, and Brief RELATION Of the Lord <hi>Liſle</hi>'s departure from his Command in <hi>Ireland, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt the face of things is much changed here, and the not continuing of the Lord Lieutenants power (at leaſt that we know of) is undoubtedly the ſole cauſe of it: For, no ſooner was it noiſed abroad that his Lordſhip would be going for <hi>England</hi> when his Commiſsion determi<g ref="char:EOLhyphen"/>ned, but great diſputes did ariſe about the Com<g ref="char:EOLhyphen"/>mand of the Army. The Generall Officers pre<g ref="char:EOLhyphen"/>tended a right unto it, in the abſence of a Generall, to which purpoſe ſome of them (in Petition pre<g ref="char:EOLhyphen"/>ſented to the Councell-board) deſired their power might be confirmed unto them before his Lordſhips departure, to avoid all future conteſtations to the prejudice of the ſervice; on the other ſide, the Lord <hi>Inchequin</hi> reſolved as much to ſtand upon his
+<pb n="2" facs="tcp:114114:3"/>pretentions, which appeared, by what he ſaid to an Officer here (as I am credibly informed) That if the Lord Lieutenant ſhould leave the Lieut. General of the Horſe behinde him in Command, he had a Friend, who would accuſe the ſaid Lieut. Generall of Treaſon, but that was not at all regarded. This conteſtation ſeem'd ſo high, and of ſo great concern<g ref="char:EOLhyphen"/>ment, that the Councell-board took it preſently in<g ref="char:EOLhyphen"/>to debate; and having received the Lord <hi>Inchequins</hi> Reaſons, for the right he claimed to Command in Chief; as alſo the Reaſons of the General Officers, they reſolv'd to ſettle the command of the Army in 4. Commiſſioners, <hi>viz.</hi> the L <hi>Inchequin,</hi> and the L. <hi>Broghill,</hi> the two Principall Officers of the Army of <hi>Munſter;</hi> and Mr. <hi>Sidney,</hi> and Sr. <hi>Harareſs VValler,</hi> the one Lieutenant General of the horſe, and the other Serjeant-Major-Generall of the Army of the whole Kingdome; which were only to continue till the Parliament ſhould declare their pleaſure there<g ref="char:EOLhyphen"/>in: and the Counſell-board was the rather inclined to this reſolution, becauſe upon conference with the Atturney Generall of the Kingdome about this particular, it ſeemed cleare unto them, that the Lord <hi>Inchequins</hi> power being granted, but during the plea<g ref="char:EOLhyphen"/>ſure of the Parliament, did ceaſe when the Lord Lieutenants began; and could not be reaſſumed, but by a new grant from the Parliament. Yet ſo deſire<g ref="char:EOLhyphen"/>ous they were to give the Lord <hi>Inchequin</hi> all ſatis<g ref="char:EOLhyphen"/>faction herein, that they offered to leave any perſon of the afore-named Commiſſioners, out of the Commiſſion, whom his Lordſhip ſhould except a<g ref="char:EOLhyphen"/>gainſt, ſo he would joyn with them in this order;
+<pb n="3" facs="tcp:114114:3"/>but his Lordſhips anſwer was, That his concurrence herein would prejudice his right; yet if the Board ſhould think fit to make any ſuch Order, that he would give all ready obedience unto it. Whereupon, the Board made an Order for ſetling the Command of the Army, in the four Commiſſioners formerly named, till the Parliament ſhould diſpoſe other<g ref="char:EOLhyphen"/>ways of it; and gave one part of that Order to the Lord <hi>Inchequin,</hi> and the other part to the three o<g ref="char:EOLhyphen"/>ther Commiſſioners of the Armie. But ſo far was his Lordſhip then from yielding obedience unto it, that he proteſted againſt it, as ſoon as the Lord-Lieutenants Commiſſioners determined, and like<g ref="char:EOLhyphen"/>wiſe offered to return to the Lord <hi>Liſle</hi> the order, which his Lordſhip refuſed to receive, being then, as he told him, a private perſon and having already done whilſt he was in power, all he could to ſettle quietneſs in the Armie, till the Parliament was made acquainted with it. And then the Lord <hi>Liſlle</hi> reſol<g ref="char:EOLhyphen"/>ved to go towards the Sea, which being known then of the Commiſſioners (for the Lord <hi>Inchequin</hi> did abſolutely refuſe to joyn with them) gave order only to his Lordſhips own Regiment to be in Arms, and to attend his Lordſhip out of town, a cuſtome uſuall to ſuch perſons of his quality; but as ſoon as the Lord <hi>Inchequin</hi> had notice hereof, he preſently publiſhed a Proclamation by ſound of Drum, for<g ref="char:EOLhyphen"/>bidding them to do it upon pain of death, yet did that Regiment in obedience to their former Orders, ſtand in Armes all that day, but leaſt ſome miſ<g ref="char:EOLhyphen"/>chiefe might ariſe from hence, both the Lord <hi>Liſle</hi>
+               <pb n="4" facs="tcp:114114:4"/>and the Counſell reſolved to ſtay one day longer at <hi>Cork,</hi> to reconcile thoſe great diviſions in the Army, which happily they put an end unto; notwithſtand<g ref="char:EOLhyphen"/>ing the Lord <hi>Inchequin</hi> had called ſeverall Officers from the out-Quarters, and got ſome hundreds of Souldiers and Reformadoes that had been Cavaliers into his Houſe, as it is Confidently believed here, having likewiſe ordered one of his own Troops to come into the Town, but the other Commiſſioners kept that out, and inſtead thereof, brought in ſome of the Lord <hi>Broghils</hi> Troops, by which means, they had the abſolute command of the Town, and were fully reſolved to maintain their right (as I have heard) and to proceed to act ac<g ref="char:EOLhyphen"/>cording to their Commiſſion, had not the Board perſwaded them to ſuſpend the execution of their power, and to go for <hi>England,</hi> where they might make known to the Parliament the Lord <hi>Inchequins</hi> carriage, by which I believe it will appear, that no conſideration of any hazard that might happen to the publike, could draw his Lordſhip from his own particular intereſt. The full power of all is now in his Lordſhips hands, and all things in great quiet<g ref="char:EOLhyphen"/>neſs here, yet can I not expreſs the apprehenſions we have upon the Lord Lieutenants removall from us, and indeed when I conſider that moſt of the Councell and chief Officers do go over with him, and more will follow; what diſaffection there is to the Lord <hi>Inchequin</hi> in thoſe that remaine, eſpecially, the Forces lately ſent over, and how vaſt an expence the Kingdome of <hi>England</hi>
+               <pb n="5" facs="tcp:114114:4"/>muſt be at before new Governours and Forces can be ſent into this, beſides the difficulty of raiſing money for them, I cannot almoſt but diſpair of any ſervice this Summer, the loſs of which ſeaſon muſt doubtleſs prove dangerous, if not deſtructive unto us. God turn all to the beſt which ſhall be the dai<g ref="char:EOLhyphen"/>ly prayer of, <hi>SIR.</hi>
+            </p>
+            <p>One or two things I had almoſt forgot, which is, that when the Lord <hi>Liſles</hi> Trunks, and houſhold fur<g ref="char:EOLhyphen"/>niture were ſhipped, the Lord <hi>Inchequin</hi> gave order to have them ſearched, which I believe hath not been known in the like caſe.</p>
+            <p>The other is, concerning the getting of <hi>Cnock<g ref="char:EOLhyphen"/>none,</hi> which my Lord <hi>Liſle</hi> by treaty obtained, and which is of great advantage to the Parliament, whereas its ſaid, others might have had it if they had pleaſed: it was not ſure well done they took not poſſeſſion.</p>
+            <p>Thoſe who come along with the Lord <hi>Liſle,</hi> are the Lord <hi>Broghill,</hi> the Lieutenant Generall of the Horſe, the Commiſſary Generall of the Horſe: the Privy Counſellours <hi>viz.</hi> the Lord of <hi>Valentia,</hi> Sir <hi>Adam Loftus,</hi> and Sir <hi>Iohn Temple,</hi> who are all that were there, but the Lord <hi>Inchequin,</hi> Col. <hi>Gray,</hi> Sir <hi>Arthur Loftus</hi> Colonel, Major <hi>Piltſon,</hi> Major of the City of <hi>Cork,</hi> Capt. <hi>Iames Parſons,</hi> Capt. <hi>William Me<g ref="char:EOLhyphen"/>rydith,</hi> and divers others.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
